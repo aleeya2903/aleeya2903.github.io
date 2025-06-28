@@ -27,11 +27,11 @@ Welcome to my personal portfolio site! Built with simple HTML and CSS, this site
 
 ## 📁 Folder Structure
 
-📦 root/
-├── index.html → Main website content
-├── style.css → Custom styling for layout and design
-├── aleeya.jpeg → Personal profile photo
-├── resume.pdf → Resume file (for download button)
-├── [project images] → Images used in the projects section
+📦 root/  
+├── index.html → Main website content  
+├── style.css → Custom styling for layout and design  
+├── aleeya.jpeg → Personal profile photo  
+├── resume.pdf → Resume file (for download button)  
+├── [project images] → Images used in the projects section  
 
 
