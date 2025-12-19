@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio — Aleeya Mohamad Roki
+# Personal Portfolio — Aleeya Mohamad Roki
 
 Welcome to my personal portfolio site! Built with simple HTML and CSS, this site showcases my background, projects, and contact information as a Data Science major at UW–Madison.
 
@@ -6,7 +6,7 @@ Welcome to my personal portfolio site! Built with simple HTML and CSS, this site
 
 ---
 
-## ✨ Features
+## Features
 
 - Clean single-page layout with pastel color palette
 - Responsive design with personal photo and bio
@@ -16,7 +16,7 @@ Welcome to my personal portfolio site! Built with simple HTML and CSS, this site
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - HTML5 + CSS3
 - Google Fonts (`Inter`)
@@ -25,9 +25,9 @@ Welcome to my personal portfolio site! Built with simple HTML and CSS, this site
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
-📦 root/  
+root/  
 ├── index.html → Main website content  
 ├── style.css → Custom styling for layout and design  
 ├── aleeya.jpeg → Personal profile photo  
